@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadtd2023
+- 👋 Hi, I’m Nisar Dayo 
 - 👀 I’m interested in Data Analytics/ML
 - 🌱 I’m currently learning to code in Python
 - 📫 you can email me nisardayo@gmail.com
